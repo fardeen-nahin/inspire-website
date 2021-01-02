@@ -1,0 +1,51 @@
+body {
+  background-image: url(https://cdn.hipwallpaper.com/i/76/72/Xfmlb7.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.head {
+    text-align: center;
+    font-family: 'Cormorant Garamond', serif;
+    color: aliceblue;
+    font-size: 75px;
+    background-color: rgba(0, 0, 0, 0.582);
+    margin: 0px;
+}
+span {
+  color: rgb(125, 195, 255);
+  font-family: 'Kaushan Script', cursive;
+  font-size: 75px;
+}
+.techer{
+    color: aliceblue;
+    text-align: center ;
+    border: 5px solid skyblue;
+    margin: 0px 400px 0px 400px;
+    border-radius: 30px;
+    background-color: rgba(0, 0, 0, 0.466);
+}
+.techer h2{
+    font-size: 30px;
+    color: aqua;
+}
+.techer h3{
+    font-size: 25px;
+}
+.techer p{
+    font-size: 22px;
+}
+.pca{
+    font-family: 'Hind Siliguri', sans-serif;
+    text-align: justify;
+    color: whitesmoke;
+    border: 5px solid skyblue;
+    border-radius: 20px;
+    margin: 15px;
+    max-width: 27%;
+    float: left;
+    padding: 20px;
+}
+
+.pca h2{
+    text-align: center;
+}
